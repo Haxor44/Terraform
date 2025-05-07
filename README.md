@@ -64,15 +64,6 @@ To remove all created resources:
 ```bash
 terraform destroy
 ```
-
-## Best Practices Implemented
-
-1. **Modular Design**: Uses official Terraform AWS modules
-2. **Environment Isolation**: Workspace support for multiple environments
-3. **State Management**: Secure remote state with locking
-4. **Security**: Principle of least privilege in security groups
-5. **Cost Control**: Default to t3.micro instances
-
 ## Troubleshooting
 
 **Error: Invalid Key Pair**
