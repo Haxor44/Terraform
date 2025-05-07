@@ -188,21 +188,3 @@ Use time-to-live (TTL) patterns for temporary resources.
 
 ---
 
-## Additional Resources
-
-- [Official Terraform Documentation](https://www.terraform.io/docs)
-- [Terraform Best Practices](https://www.terraform-best-practices.com/)
-- [AWS Terraform Modules](https://registry.terraform.io/namespaces/terraform-aws-modules)
-
-> **Pro Tip:** Regularly update Terraform and provider versions to get security fixes and new features.
-```
-
-This version:
-1. Uses consistent Markdown formatting
-2. Groups related concepts together
-3. Provides clear examples for each practice
-4. Includes explanatory callouts and pro tips
-5. Maintains a professional yet approachable tone
-6. Uses proper HCL syntax highlighting
-
-Would you like me to adjust any section's depth or add specific examples?
